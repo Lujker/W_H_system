@@ -1,6 +1,6 @@
 # Qt-W_H_system
 
-An app written at the time of writing the diploma in MSTU"STANKIN".
+An app written at the time of study in MSTU"STANKIN".
 Topic: "Control system for a group of mobile robots in a warehouse"
 
 <img src="https://github.com/Lujker/W_H_system/blob/master/Screen.png?raw=true"/>
